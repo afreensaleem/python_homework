@@ -1,1 +1,1 @@
-str = "i am inside assigment2 folder of assignment2 branch"
+
